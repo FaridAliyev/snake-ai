@@ -1,3 +1,5 @@
+# Snake Bot AI
+
 For NonJava languages:
 - please go to .\src\main\<language>
 - chose your language
